@@ -1,0 +1,7 @@
+Chanage Log
+===========
+
+0.0.1 (25/10/2020)
+-----------------
+
+ - The first release of the module "Lottery analyser".
